@@ -6,4 +6,4 @@ This simple project was made with great help obtained from https://codefc.com.br
 
 Basically, was made a application in MVC model that offers a person data. 
 
-Many details you can read more especifically in link above.
+More details you can read more especifically in link above.
